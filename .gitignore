@@ -1,0 +1,6 @@
+*.pyc
+*/*.pyc
+*/*/*.pyc
+node_modules
+db.sqlite3
+venv
